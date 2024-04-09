@@ -3,7 +3,18 @@ layout: default
 bodyClass: "page-teams"
 ---
 
-<div class="intro">
+<div class="container pt-6 pt-md-10">
+    <div class="row justify-content-start">
+        <div class="col-12 col-md-8">
+            <div class="service service-single">
+                <h1 class="title">{{page.title}}</h1>
+                <!-- <div class="content">{{content}}</div> -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- <div class="intro">
     <div class="container">
         <div class="row justify-content-start">
             <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
@@ -16,9 +27,9 @@ bodyClass: "page-teams"
             {% endif %}
         </div>
     </div>
-</div>
+</div> -->
 
-<div class="container pt-6 pb-6">
+<div class="container">
     <div class="row">
         {% assign promoted_teams = site.team | where: "promoted", true | sort: "weight" %}
         {% for team in promoted_teams %}
