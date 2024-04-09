@@ -1,4 +1,5 @@
 baseurl: '/'
+url: "https://atocem.com"
 permalink: pretty
 title: 'Atocem'
 
@@ -37,6 +38,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
