@@ -1,12 +1,12 @@
 ---
-title: Team
+title: Yönetim Kurulu
 layout: teams
-description: Team
-permalink: "/team/"
+description: Yönetim Kurulu
+permalink: "/yonetim-kurulu/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Yönetim Kurulu
 
 Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.

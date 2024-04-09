@@ -2,6 +2,7 @@
 title: About
 layout: page
 description: About
+permalink: "/hakkinda/"
 bodyClass: page-about
 ---
 

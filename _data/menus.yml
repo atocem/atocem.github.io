@@ -1,21 +1,21 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Faaliyet Alanları"
+    url: "/faaliyet-alanlari/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Yönetim Kurulu"
+    url: "/yonetim-kurulu/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Hakkında"
+    url: "/hakkinda/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
+  - name: "İletişim"
+    url: "/iletisim/"
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Ana Sayfa"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "İletişim"
+    url: "/iletisim/"
     weight: 2
