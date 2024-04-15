@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: İletişim
 layout: contact
-description: Contact
+description: İletişim
 permalink: "/iletisim/"
 ---
 
