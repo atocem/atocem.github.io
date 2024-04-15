@@ -1,7 +1,7 @@
 ---
-title: About
+title: Hakkında
 layout: page
-description: About
+description: Hakkında
 permalink: "/hakkinda/"
 bodyClass: page-about
 ---
